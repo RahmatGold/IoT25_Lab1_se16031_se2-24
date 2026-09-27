@@ -1,0 +1,1 @@
+& "C:\Users\user\.platformio\penv\Scripts\platformio.exe" run --environment ex4 --> if new environment isnot build and makes an error
